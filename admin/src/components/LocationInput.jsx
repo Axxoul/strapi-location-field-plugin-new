@@ -259,7 +259,7 @@ export default function Input({
 		<Flex direction="column" alignItems="start" gap={3}>
 			<Box width="100%">
 				<Field.Root>
-					<Field.Label>Ubicación</Field.Label>
+					<Field.Label>Location</Field.Label>
 				
 			
 				{loader && apiKey && fields && (
